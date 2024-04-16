@@ -1,6 +1,6 @@
 # social_media_ticket
 
-A new Flutter project.
+Social media Ticket app, 
 
 ## Getting Started
 
