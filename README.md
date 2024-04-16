@@ -1,6 +1,6 @@
 # social_media_ticket
 
-Social media Ticket app, 
+Social media Ticket app, messeges and comments
 
 ## Getting Started
 
